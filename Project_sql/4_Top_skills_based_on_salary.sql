@@ -1,3 +1,4 @@
+
 SELECT 
     skills_dim.skills,
     ROUND(AVG(salary_year_avg),0) AS Avg_salary
